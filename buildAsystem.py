@@ -8,6 +8,9 @@ bridgePiers:
 # establish amounttable{bridgeName,}
 
 
+# HOW TO PAY
+SAME OLD SAME OLD
+establish TUNNEL DATABASE
 
 
 tunnel:
@@ -26,11 +29,13 @@ draw by cell,conditional formatting by category_average
 or draw all
 
 ---------
-T-T-B-P
+T-T-B-P....INNERLINING SAME
 O-O-E-A
 T-P-N-Y
 A- -C
 L- -H
+
+
 
 
 # for viewing
